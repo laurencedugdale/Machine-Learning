@@ -1,5 +1,5 @@
-# This program creates a Monte Carlo simulation for a roulette wheel. It simulates a person repeatedly betting on either red or black. The average
-# win/loss per game is then calculated (in percentage terms) and compared with the theoretical value. 
+# This program creates a Monte Carlo simulation for a roulette wheel. It simulates a person repeatedly betting on either red or black.
+# The average win/loss per game is then calculated (in percentage terms) and compared with the theoretical value. 
 
 
 
@@ -26,5 +26,3 @@ for iteration in range(1000000):
 percentage_return_per_game=round(((wins-losses)/(wins+losses))*100,3)
 print('The expected percentage return per game is -2.703%') 
 print('The calculated percentage return per game is ',percentage_return_per_game,'%')
-
-
