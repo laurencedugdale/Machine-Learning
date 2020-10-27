@@ -1,0 +1,10 @@
+The program is run using the file named 'Automated Online Learning.ipynb'. It needs to be executed using a Jupyter Notebook. 
+
+In order to work correctly, the file must be run in an environment that contains the following installations:
+	python
+	jupyter
+	numpy
+	pandas
+	scikit-learn
+	
+A full list of all of the dependencies and their versions is provided in the report. 

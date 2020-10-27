@@ -1,0 +1,11 @@
+Port Name,State,Port Code,Border,Date,Measure,Value
+Wildhorse,MT,3323,US-Canada Border,6/1/2018 00:00,Buses,2
+El Paso,TX,2402,US-Mexico Border,6/1/2018 00:00,Personal Vehicles,1034430
+Ferry,WA,3013,US-Canada Border,6/1/2018 00:00,Personal Vehicles,1136
+Calais,ME,115,US-Canada Border,6/1/2018 00:00,Trains,19
+San Ysidro,CA,2504,US-Mexico Border,6/1/2018 00:00,Personal Vehicle Passengers,2202496
+Progreso,TX,2309,US-Mexico Border,6/1/2018 00:00,Personal Vehicles,96298
+Calais,ME,115,US-Canada Border,6/1/2018 00:00,Truck Containers Full,3863
+Opheim,MT,3317,US-Canada Border,6/1/2018 00:00,Truck Containers Empty,4
+Eastport,ME,103,US-Canada Border,6/1/2018 00:00,Truck Containers Full,99
+Sault Sainte Marie,MI,3803,US-Canada Border,6/1/2018 00:00,Personal Vehicles,68485

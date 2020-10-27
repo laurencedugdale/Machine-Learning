@@ -1,0 +1,2 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+6880990,En suite room  Upper West Side,36055888,Ryan,Manhattan,Harlem,40.83019,-73.94991,Private room,75,2,1,2015-07-26,0.02,1,0
